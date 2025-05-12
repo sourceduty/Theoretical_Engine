@@ -13,3 +13,5 @@ Ultimately, theoretical engine modelling serves both as a didactic framework and
 [Theoretical Engine](https://chatgpt.com/g/g-6822874136fc81919dcce8108892af93-theoretical-engine)
 <br>
 [Quantum Algorithm Engine](https://github.com/s0urceduty/Quantum_Algorithm_Engine)
+<br>
+[Behavioral Interaction Engine](https://github.com/s0urceduty/Behavioral_Interaction_Engine)
