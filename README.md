@@ -25,3 +25,5 @@ Although quantum mechanics itself is not a new science, having been developed in
 [Quantum Algorithm Engine](https://github.com/s0urceduty/Quantum_Algorithm_Engine)
 <br>
 [Behavioral Interaction Engine](https://github.com/s0urceduty/Behavioral_Interaction_Engine)
+<br>
+[Quantum Engine](https://chatgpt.com/g/g-67a43c96f6d481919c705965019312be-quantum-engine)
