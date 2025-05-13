@@ -10,7 +10,7 @@ Ultimately, theoretical engine modelling serves both as a didactic framework and
 
 #
 
-![Quantum Engine](https://github.com/user-attachments/assets/98f71640-7166-44de-ac0c-fb5a609b032c)
+![Quantum Engine](https://github.com/user-attachments/assets/3502e1b6-0aa0-4f6a-b653-6418c262034d)
 
 A quantum mechanical powered engine is a theoretical propulsion system that harnesses principles from quantum mechanics—such as quantum tunneling, superposition, entanglement, and zero-point energy—to generate thrust or power. Unlike traditional combustion or electric engines that rely on macroscopic fuel reactions or stored electricity, this engine operates at the atomic or subatomic level. For instance, quantum tunneling allows particles to pass through energy barriers without the need for classical energy input, potentially reducing the power required for propulsion. Superposition could enable components of the engine to exist in multiple energy states simultaneously, optimizing performance and minimizing waste. These principles open doors to an engine that is ultra-compact, ultra-efficient, and not constrained by the limitations of conventional thermodynamics or material combustion.
 
