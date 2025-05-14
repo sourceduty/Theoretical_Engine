@@ -1,8 +1,9 @@
 ![Theoretical Engine](https://github.com/user-attachments/assets/a033ade5-3281-4f82-b450-dbe518817786)
 
-#
-
 A theoretical engine model is an abstract representation of a system that transforms inputs into outputs through defined processes, often under idealized conditions. Unlike physical engines, which involve mechanical components and real-world constraints such as friction, heat loss, and material imperfections, a theoretical engine operates within a conceptual framework designed to illuminate the essential mechanisms that govern system behavior. These models are foundational across disciplines such as thermodynamics, biology, computer science, and economics because they allow researchers to isolate and understand the core principles that drive complex phenomena. By stripping away non-essential variables, a theoretical engine model serves as a powerful analytical tool, enabling predictions, comparisons, and deeper insights into system efficiency, limits, and potential.
+
+#
+![Black Box Model](https://github.com/user-attachments/assets/48f937f0-4310-4239-ac1f-8febc4b9bcaa)
 
 The concepts underlying theoretical engine modelling involve a structured set of components: inputs, processing mechanisms, and outputs, along with rules or laws that govern their interactions. These models are often formulated with mathematical rigor, using equations to express conservation laws (like energy, mass, or information), transformation functions, feedback loops, and entropy flows. In thermodynamics, for instance, the Carnot engine exemplifies a theoretical engine that operates between two heat reservoirs to model the upper limit of efficiency for heat-to-work conversion. Similarly, in computational theory, the Turing machine models the logical structure of algorithmic processing, capturing the essence of computation irrespective of hardware implementation. These engines are purpose-built abstractions, designed not merely to mirror reality but to offer a lens through which the systemic logic of transformation can be universally applied and examined.
 
