@@ -13,7 +13,7 @@ Ultimately, theoretical engine modelling serves both as a didactic framework and
 
 ![Quantum Engine](https://github.com/user-attachments/assets/3502e1b6-0aa0-4f6a-b653-6418c262034d)
 
-A quantum mechanical powered engine is a theoretical propulsion system that harnesses principles from quantum mechanics—such as quantum tunneling, superposition, entanglement, and zero-point energy—to generate thrust or power. Unlike traditional combustion or electric engines that rely on macroscopic fuel reactions or stored electricity, this engine operates at the atomic or subatomic level. For instance, quantum tunneling allows particles to pass through energy barriers without the need for classical energy input, potentially reducing the power required for propulsion. Superposition could enable components of the engine to exist in multiple energy states simultaneously, optimizing performance and minimizing waste. These principles open doors to an engine that is ultra-compact, ultra-efficient, and not constrained by the limitations of conventional thermodynamics or material combustion.
+A [Quantum Algorithm Engine](https://github.com/s0urceduty/Quantum_Algorithm_Engine) is a theoretical propulsion system that harnesses principles from quantum mechanics—such as quantum tunneling, superposition, entanglement, and zero-point energy—to generate thrust or power. Unlike traditional combustion or electric engines that rely on macroscopic fuel reactions or stored electricity, this engine operates at the atomic or subatomic level. For instance, quantum tunneling allows particles to pass through energy barriers without the need for classical energy input, potentially reducing the power required for propulsion. Superposition could enable components of the engine to exist in multiple energy states simultaneously, optimizing performance and minimizing waste. These principles open doors to an engine that is ultra-compact, ultra-efficient, and not constrained by the limitations of conventional thermodynamics or material combustion.
 
 The integration of quantum mechanical engines into science and technology would represent a radical shift, especially in energy utilization and mobility. In aerospace engineering, such engines could revolutionize deep-space travel by offering near-limitless, low-mass propulsion systems, significantly reducing the need for large fuel reserves or solar power arrays. Vehicles could, in theory, harvest ambient quantum fluctuations or zero-point energy—the lowest possible energy that a quantum system may have—allowing them to operate indefinitely with minimal refueling. In physics and engineering, deploying such an engine would not only demonstrate practical use of quantum effects on a macroscopic scale but would also force a redefinition of energy efficiency, motion, and entropy in applied systems. The compact nature of such engines could lead to fundamentally new vehicle designs, space habitats, and transportation methods on Earth and beyond.
 
@@ -36,8 +36,6 @@ A theoretical math engine is an abstract computational system designed to model,
 
 #
 
-[Quantum Algorithm Engine](https://github.com/s0urceduty/Quantum_Algorithm_Engine)
-<br>
 [Behavioral Interaction Engine](https://github.com/s0urceduty/Behavioral_Interaction_Engine)
 <br>
 [Quantum Engine](https://chatgpt.com/g/g-67a43c96f6d481919c705965019312be-quantum-engine)
