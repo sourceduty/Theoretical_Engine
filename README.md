@@ -39,3 +39,5 @@ A theoretical math engine is an abstract computational system designed to model,
 [Behavioral Interaction Engine](https://github.com/s0urceduty/Behavioral_Interaction_Engine)
 <br>
 [Quantum Engine](https://chatgpt.com/g/g-67a43c96f6d481919c705965019312be-quantum-engine)
+<br>
+[Math Tools](https://github.com/sourceduty/Math_Tools)
