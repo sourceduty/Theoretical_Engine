@@ -34,6 +34,12 @@ Theoretical [math engines](https://chatgpt.com/g/g-68422466844c8191af5186f0e8717
 
 #
 
+![Logic Engine](https://github.com/user-attachments/assets/a771957a-5b51-4ff3-b6cb-2c16dae27784)
+
+[Logic Engine](https://chatgpt.com/g/g-6847210986e88191a5f690049e71e6b4-logic-engine) was made to explore and model the fundamental principles of logical reasoning, inference, and problem-solving through abstract, mathematical frameworks known as theoretical logic engines. It helps users construct, analyze, and refine idealized models that simulate how intelligent agents—human or artificial—process logical information. By focusing on knowledge representation systems (like propositional and predicate logic), inference rules, uncertainty management, and computational tradeoffs, the Logic Engine enables rigorous investigation into the core structures that underlie logical thought. Ultimately, it supports research and development in areas such as automated reasoning, theorem proving, and commonsense knowledge modeling.
+
+#
+
 [Behavioral Interaction Engine](https://github.com/s0urceduty/Behavioral_Interaction_Engine)
 <br>
 [Quantum Engine](https://chatgpt.com/g/g-67a43c96f6d481919c705965019312be-quantum-engine)
