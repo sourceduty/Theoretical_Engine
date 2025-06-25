@@ -76,3 +76,5 @@ But Python's mathematical might doesn't stop there. The SymPy library brings sym
 [Behavioral Interaction Engine](https://github.com/s0urceduty/Behavioral_Interaction_Engine)
 <br>
 [Math Tools](https://github.com/sourceduty/Math_Tools)
+<br>
+[Self-Excited Motor](https://github.com/sourceduty/Self-Excited_Motor)
