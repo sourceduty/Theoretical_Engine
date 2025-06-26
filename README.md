@@ -28,6 +28,12 @@ Ultimately, theoretical engine modelling serves both as a didactic framework and
 
 #
 
+![AI Engine](https://github.com/user-attachments/assets/b28e4795-cc70-42c5-bc39-fe1fd284048a)
+
+[AI Engine](https://chatgpt.com/g/g-685d7768510081919e3faa34ad5ffe28-ai-engine) is a custom GPT made to research, develop and simulate powerful artificial intelligence engines capable of understanding and performing complex tasks that typically require human intelligence. An AI engine is a powerful software system that mimics human intelligence by using machine learning algorithms, deep neural networks, and natural language processing to analyze data, recognize patterns, and make decisions. Unlike traditional software, it doesn't rely on hardcoded rules but learns from vast datasets, improving its performance over time through experience. These engines power a wide array of modern technologies, from voice-activated assistants like Alexa to self-driving cars, fraud detection tools, and personalized recommendations on streaming platforms. By adapting to new information and automating complex tasks, AI engines are transforming industries and enhancing efficiency across various sectors.
+
+#
+
 ![Quantum Engine](https://github.com/user-attachments/assets/3502e1b6-0aa0-4f6a-b653-6418c262034d)
 
 A [Quantum Mechanical Engine](https://chatgpt.com/g/g-67a43c96f6d481919c705965019312be-quantum-engine) is a theoretical propulsion system that harnesses principles from quantum mechanics—such as quantum tunneling, superposition, entanglement, and zero-point energy—to generate thrust or power. Unlike traditional combustion or electric engines that rely on macroscopic fuel reactions or stored electricity, this engine operates at the atomic or subatomic level. For instance, quantum tunneling allows particles to pass through energy barriers without the need for classical energy input, potentially reducing the power required for propulsion. Superposition could enable components of the engine to exist in multiple energy states simultaneously, optimizing performance and minimizing waste. These principles open doors to an engine that is ultra-compact, ultra-efficient, and not constrained by the limitations of conventional thermodynamics or material combustion.
