@@ -1,0 +1,10 @@
+Feature,Tesla Model S Plaid (Before SES),Tesla Model 3 Performance (Before SES),Tesla Model S Plaid (After SES - 20% improvement),Tesla Model 3 Performance (After SES - 20% improvement),Tesla Model S Plaid (After SES - 30% improvement),Tesla Model 3 Performance (After SES - 30% improvement)
+Torque,"1,420 Nm (1,047 lb-ft)",660 Nm (487 lb-ft),"1,420 Nm (1,047 lb-ft)",660 Nm (487 lb-ft),"1,420 Nm (1,047 lb-ft)",660 Nm (487 lb-ft)
+Peak Power,"760 kW (1,020 hp)",461 kW (627 hp),"760 kW (1,020 hp)",461 kW (627 hp),"760 kW (1,020 hp)",461 kW (627 hp)
+Motor Type,"Tri-motor (1 front, 2 rear) induction motors","Dual-motor (1 front, 1 rear) IPM-SynRM motors","Tri-motor (1 front, 2 rear) with SES integration",Dual-motor with SES integration,Tri-motor with SES integration,Dual-motor with SES integration
+Max RPM,"18,000 RPM (estimated)","18,000 RPM (estimated)","18,000 RPM (estimated)","18,000 RPM (estimated)","18,000 RPM (estimated)","18,000 RPM (estimated)"
+Drive Configuration,Tri-motor AWD,Dual-motor AWD,Tri-motor AWD with SES,Dual-motor AWD with SES,Tri-motor AWD with SES,Dual-motor AWD with SES
+Weight,"2,255 kg (4,971 lbs)","1,600 kg (3,527 lbs)",Slightly reduced (due to lower energy consumption),Slightly reduced (due to lower energy consumption),Slightly reduced (due to lower energy consumption),Slightly reduced (due to lower energy consumption)
+Energy Efficiency,High (optimized for performance),High (optimized for performance),Improved (due to self-excited energy generation),Improved (due to self-excited energy generation),Further improved (due to self-excited energy generation),Further improved (due to self-excited energy generation)
+Applications,"High-performance EVs, luxury sedans","Performance sedans, everyday driving",Same as before but with increased range and efficiency,Same as before but with increased range and efficiency,Same as before but with significantly increased range and higher efficiency,Same as before but with significantly increased range and higher efficiency
+Throughput Efficiency (kW),760 kW,461 kW,912 kW,553.2 kW,988 kW,599.3 kW
