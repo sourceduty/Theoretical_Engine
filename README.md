@@ -74,7 +74,7 @@ But Python's mathematical might doesn't stop there. The SymPy library brings sym
 
 #
 
-![Engine Throughput](https://github.com/user-attachments/assets/938befeb-6bff-4745-99f3-48e0f01bcc28)
+![Engine Throughput](https://github.com/user-attachments/assets/54b9fe16-5199-4116-a34a-b0e28b90b297)
 
 [Engine Throughput](https://chatgpt.com/g/g-6862c6e52ea48191bc4153a077f5b923-engine-throughput) is a measurement for the rate at which an engine or system processes and completes tasks or operations within a specific time period. It is a key performance indicator that measures how much work is being done, often expressed in units processed per second, minute, or hour. Throughput can be influenced by various factors such as processing power, memory capacity, network bandwidth, storage speed, and the efficiency of the software running on the system. High engine throughput indicates the system can handle more tasks or requests in a given period, leading to better performance, faster response times, and the ability to scale with increasing demands without degradation. Monitoring and optimizing throughput is critical for ensuring that systems can meet user needs effectively and maintain operational efficiency.
 
