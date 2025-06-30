@@ -43,11 +43,6 @@ A [Quantum Mechanical Engine](https://chatgpt.com/g/g-67a43c96f6d481919c70596501
 A [Quantum Algorithm Engine](https://chatgpt.com/g/g-681fe295fb488191ba431e6c1a3d0fb8-quantum-algorithm-engine) is a sophisticated computational framework designed to execute algorithms that utilize the principles of quantum mechanics—specifically superposition, entanglement, and quantum interference. Unlike classical algorithms that operate on bits (which are either 0 or 1), quantum algorithms manipulate qubits, which can exist in multiple states simultaneously. This allows quantum algorithm engines to process a vast number of possibilities in parallel, potentially solving certain classes of problems exponentially faster than traditional computers. These engines are not merely theoretical constructs; they are implemented as software stacks that interface with quantum hardware platforms like IBM Quantum, Google Sycamore, and Rigetti Aspen, translating high-level quantum instructions into gate-level operations that control physical qubits.
 
 #
-![Mars](https://github.com/user-attachments/assets/87b39894-b86f-4440-a6fd-bab43d07a352)
-
-A quantum mechanical powered engine could theoretically be used in space or on other planets, and it may even prove to be more advantageous in those environments compared to Earth. In the vacuum of space, traditional propulsion systems face limitations due to the lack of atmospheric oxygen for combustion and the need for carrying heavy fuel loads. A quantum engine, by contrast, could leverage phenomena like quantum tunneling or zero-point energy to generate propulsion without relying on oxidizers or bulky fuel storage. This would make interplanetary or interstellar travel far more efficient and sustainable. Since quantum engines are expected to operate with minimal heat loss and without chemical combustion, they would be highly suitable for the cold, radiation-rich vacuum of space, where energy conservation and thermal regulation are critical. Additionally, their potentially compact design would reduce payload mass, allowing more space for cargo, instruments, or crew life-support systems on spacecraft.
-
-#
 
 ![Math Engine](https://github.com/user-attachments/assets/3a01efa6-3f8b-4483-9c67-a6561e2661ef)
 
@@ -76,6 +71,12 @@ Python has a powerful and versatile mathematical foundation that often goes unno
 This phantom-like entity is built upon several key components that work in combination to provide an extensive suite of mathematical capabilities. NumPy forms the bedrock of this system, providing support for multidimensional arrays and matrices along with a vast collection of functions optimized for numerical operations on these data structures. SciPy builds upon this foundation by offering advanced scientific computing tools such as integration, optimization, interpolation, signal processing, image processing, statistics, linear algebra, and more - all leveraging the power of NumPy's efficient array handling.
 
 But Python's mathematical might doesn't stop there. The SymPy library brings symbolic mathematics to the table, allowing users to perform operations on algebraic expressions without having to resort to numerical approximations whenever possible. This opens up a whole new realm of possibilities for solving equations symbolically and performing complex manipulations that would be impossible or impractical with traditional numeric approaches alone. And when it comes time to visualize these mathematical concepts in action, libraries like Matplotlib provide the tools needed to generate static, interactive, and animated visualizations - bringing abstract ideas to life through compelling graphical representations. Together, this collection of powerful internal libraries forms a ghost model math engine that empowers Python users with an unparalleled ability to tackle complex numerical problems across diverse domains.
+
+#
+
+![Engine Throughput](https://github.com/user-attachments/assets/938befeb-6bff-4745-99f3-48e0f01bcc28)
+
+[Engine Throughput](https://chatgpt.com/g/g-6862c6e52ea48191bc4153a077f5b923-engine-throughput) is a measurement for the rate at which an engine or system processes and completes tasks or operations within a specific time period. It is a key performance indicator that measures how much work is being done, often expressed in units processed per second, minute, or hour. Throughput can be influenced by various factors such as processing power, memory capacity, network bandwidth, storage speed, and the efficiency of the software running on the system. High engine throughput indicates the system can handle more tasks or requests in a given period, leading to better performance, faster response times, and the ability to scale with increasing demands without degradation. Monitoring and optimizing throughput is critical for ensuring that systems can meet user needs effectively and maintain operational efficiency.
 
 #
 
